@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BucketWheat
 - 👀 I’m interested in HTML, CSS, PHP, JS, and other Web development tools
-- 🌱 I’m currently learning Bootstrap
+- 🌱 I’m currently learning OpenAI Integrations
 - 💞️ I’m looking to collaborate on something new to me
 - 📫 How to reach me - you can send email @ groupofaparece@gmail.com
 
